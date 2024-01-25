@@ -1,6 +1,6 @@
 This is my work for the Millipore Sigma Data Science Intern coding challenge, submitted on January 24th, 2024.
 
-Below are some of the links containing the data that I used to perform my analysis:
+Below are some of the links containing the data that I used for my analysis:
 
 COVID-19 Patient Data:
 
